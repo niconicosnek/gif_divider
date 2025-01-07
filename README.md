@@ -1,5 +1,5 @@
 # gif_divider
-# Simple Python Program to Split GIFs for Steam Workshop Profile Customization
+## Simple Python Program to Split GIFs for Steam Workshop Profile Customization
 
 This Python program splits a GIF vertically into 5 separate GIFs. It's mainly designed for **Steam Workshop Profile Customization**.
 
